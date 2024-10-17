@@ -1,2 +1,2 @@
 # TICK TOK :D
-Boiler plate for p5.play
+Simple clock that display the time of the chosen time zone
